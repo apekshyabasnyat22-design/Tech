@@ -1,6 +1,6 @@
 # Level 1: Absolute Basics
 # Q1. Creaates a variables called city and store thye value "KTM" in it. then print it.
-# Sloution
+# Soution
 
 city = "KTM"
 print(city)
